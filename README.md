@@ -7,10 +7,10 @@ Este projeto implementa um sistema básico de carrinho de compras utilizando a l
 - **Menu Principal**: Permite adicionar dinheiro, visualizar saldo, acessar o catálogo de produtos, gerenciar o carrinho ou sair do sistema.
 - **Catálogo de Produtos**: Exibe diferentes categorias de produtos:
   - Cestas Básicas
-  - Produtos de Higiene (ainda não implementados)
-  - Alimentos (ainda não implementados)
-  - Bebidas (ainda não implementadas)
-  - Produtos de Limpeza (ainda não implementados)
+  - Produtos de Higiene
+  - Alimentos
+  - Bebidas
+  - Produtos de Limpeza
 - **Seleção de Cestas Básicas**:
   - **Mostrar Cestas**: Exibe as cestas básicas disponíveis com seus respectivos preços.
   - **Escolher Cesta**: Permite ao usuário selecionar uma cesta básica para adicionar ao carrinho.
